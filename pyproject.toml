@@ -9,7 +9,12 @@ packages = [{include = "progression_car_price"}]
 [tool.poetry.dependencies]
 python = "^3.9"
 pandas = "^2.2.2"
+matplotlip = "^0.2"
+seaborn = "^0.13.2"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
