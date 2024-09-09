@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Gota Shirato / 白戸豪大 <gshirato@uni-bonn.de>"]
 readme = "README.md"
-packages = [{include = "progression_car_price"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
