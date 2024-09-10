@@ -6,3 +6,6 @@ data
 *.csv
 
 *.pyc
+
+mlruns
+mlartifacts
