@@ -9,11 +9,11 @@ packages = [{include = "src"}]
 [tool.poetry.dependencies]
 python = "^3.9"
 pandas = "^2.2.2"
-matplotlip = "^0.2"
 seaborn = "^0.13.2"
 scikit-learn = "^1.5.1"
 category-encoders = "^2.6.3"
 mlflow = "^2.16.0"
+matplotlib = "^3.9.2"
 
 
 [tool.poetry.group.dev.dependencies]
